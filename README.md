@@ -1,2 +1,2 @@
-# Text-Editor-
+# Text-Editor
 Mini- Project
